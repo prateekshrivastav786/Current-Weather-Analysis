@@ -30,6 +30,9 @@ in the first cell of the notebook.
 My advice is to use Jupyter notebook which has very intarctive and intuitive UI and gives a lot of functionalites for showing your comments.
 If you want to run it as a script, copy the code into some editor like notepad++ or sublime text and remove the commant and make sure that
 indentation is still maintained. if not, please set the proper indentation before running or compiling the code.
+If you dont have API key or wanted to use this on your local stored file then ignore the second and third cell where I have wrote the 
+function to create the csv file and load and parse the API JSON data into csv file.
+Use the code from the 4th cell where I loading the csv file into Pandas and run the futher code on Pandas data frame.
 
 Thanks!!!
 Cheers!!!
